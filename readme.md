@@ -2,7 +2,10 @@
 
 ## About this project
 
-### *Upgrade!* is a fun little project that I decided to start working on to showcase my skills and knowledge inside of the Unity game engine. I've never worked on a tower defense game before so this was a nice challenge but of course it helps to know lots of different engine features so not matter what project you decide to work on, you can pull it off...
+### *Upgrade!* is a fun little project that I decided to start working on to showcase my skills and knowledge inside of the Unity game engine. I've never worked on a tower defense game before but it helps to know about lots of different engine features.
+- If you want to view my C# scripts click [here](https://github.com/KleemoffDeveloper/Upgrade-Game-Scripting).
+
+---
 
 ## Description
 
@@ -13,5 +16,5 @@
 - Operating Systems: WebGL, Windows, MacOS
 
 ---
-## Development Photo 1
+## Development Photo 1 ([EnemyBehavior.cs](https://github.com/KleemoffDeveloper/Upgrade-Game-Scripting/blob/master/AI/EnemyBehavior.cs))
 ![Image1](Images/DevelopmentPhoto-Upgrade-1.PNG "DevImg1")
