@@ -18,3 +18,9 @@
 ---
 ## Development Photo 1 ([EnemyBehavior.cs](https://github.com/KleemoffDeveloper/Upgrade-Game-Scripting/blob/master/AI/EnemyBehavior.cs))
 ![Image1](Images/DevelopmentPhoto-Upgrade-1.PNG "DevImg1")
+
+## Development Photo 2 ([EnemyBehavior.cs](https://github.com/KleemoffDeveloper/Upgrade-Game-Scripting/blob/master/AI/EnemyBehavior.cs))
+### What's happening in this photo?
+<p>1. The enemy cube is detecting an obstruction in 4 different directions (the red lines). <br>2. The 1 green line is the direction where there are no obstructions, so of course that's the only logical direction our enemy cube can go in.</p>
+
+![Image1](Images/DevelopmentPhoto-Upgrade-2.PNG "DevImg2")
